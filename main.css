@@ -24,6 +24,7 @@
 
 .sub-menu li:hover {
   background-color:#08254f;
+  color: white;
 }
 
 .sub-menu li {

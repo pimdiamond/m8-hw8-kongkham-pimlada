@@ -16,6 +16,10 @@
   color: #fff;
   font-size: 18px;
 }
+
+p.main-menu-labels:hover {
+  background: grey;
+}
 /* Sub Menu Styling */
 .sub-menu {
   padding-left: 0;

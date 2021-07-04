@@ -36,9 +36,7 @@
 }
 
 ul.sub-menu {
-  min-width: 100%; /* Set width of the dropdown */
-  /* display: none; */
-  
+  display: none;  
 }
 
 ul li:hover ul.sub-menu{

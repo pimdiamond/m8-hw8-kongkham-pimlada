@@ -8,6 +8,7 @@
   text-transform: uppercase;
   font-family: sans-serif;
   list-style-type: none;
+  transition: 3s;
 }
 .main-menu-labels {
   margin: 0;
@@ -15,6 +16,7 @@
   background-color: #08254f;
   color: #fff;
   font-size: 18px;
+  transition: 3s;
 }
 
 p.main-menu-labels:hover {
